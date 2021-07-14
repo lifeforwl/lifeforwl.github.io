@@ -24,3 +24,9 @@ runtimeshow:
   enable: true
   publish_date: 6/13/2020 00:00:00  
   ##網頁開通時間
+
+# 404 页面
+error_404:
+  enable: true
+  subtitle: "頁面沒有找到"
+  background: 
