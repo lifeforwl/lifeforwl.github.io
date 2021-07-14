@@ -99,6 +99,34 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: butterfly
 
+# 豆瓣
+douban:
+  user: ikaroskun
+  builtin: true
+  book:
+    title: '阅读净化心灵'
+    quote: 'Reading'
+    meta: true
+    comments: false
+    top_img: https://img.wanglingling-liukun.cn/wlimg/top-img-book.jpg
+    aside: true
+    path: books
+  movie:
+    title: '电影记录人生'
+    quote: '看到的只是一部分'
+    meta: true
+    comments: false
+    top_img: https://img.wanglingling-liukun.cn/wlimg/top-img-movie.jpg
+    aside: true
+    path: movies
+    limit:
+  timeout: 10000 
+
+# tag-aplayer
+aplayer:
+  meting: true
+  asset_inject: false
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:

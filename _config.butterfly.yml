@@ -7,8 +7,7 @@ menu:
   时间轴: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   嘀嗒嘀嗒 || fa fa-heartbeat:
-    音乐: /music/ || fas fa-music
-    照片: /Gallery/ || fas fa-images
+    图书: /books/ || fas fa-book
     电影: /movies/ || fas fa-video
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
@@ -85,12 +84,28 @@ aside:
 ## 头像
 avatar:
   img: https://img.wanglingling-liukun.cn/wlimg/lifeforwl-small.jpeg
-  effect: true # 頭像會一直轉圈
+  effect: false # 頭像會一直轉圈
 
 ## 平台
 social:
   fab fa-github: https://github.com/lifeforwl || Github
   fas fa-envelope: mailto:merle.liukun@gmail.com || Email
+
+# 吸底音乐
+aplayerInject:
+  enable: true
+  per_page: true
+
+inject:
+  head:
+    - '<style type="text/css">#toggle-sidebar {bottom: 80px}</style>'
+  bottom:
+    - <div class="aplayer no-destroy" data-id="7271123007" data-server="tencent" data-type="playlist" data-fixed="true" data-mini="true" data-listFolded="false" data-order="random" data-preload="none" data-autoplay="true" muted></div>
+
+# https://butterfly.js.org/posts/ceeb73f/#Pjax
+pjax: 
+  enable: true
+
 
 ## 网站信息
 runtimeshow:
