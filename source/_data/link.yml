@@ -1,0 +1,8 @@
+
+- class_name: '<i class="fas fa-check-double" style="color: #FF6666;padding-right: 0.4rem"></i>友情链接'
+  class_desc: 最可爱的朋友在这里呀
+  link_list:
+    - name: Ikaros の小屋
+      link: https://blog.ikaroskun.xyz/
+      avatar: https://blog.ikaroskun.xyz/images/avatar.jpg
+      descr: 一个熟悉的人
