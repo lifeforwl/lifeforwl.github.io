@@ -13,20 +13,112 @@ menu:
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
+# 主页标题
+subtitle:
+  enable: true
+  # Typewriter Effect (打字效果)
+  effect: true
+  # loop (循環打字)
+  loop: true
+  # source調用第三方服務
+  # source: false 關閉調用
+  # source: 1  調用搏天api的隨機語錄（簡體） https://api.btstu.cn/
+  # source: 2  調用一言網的一句話（簡體） https://hitokoto.cn/
+  # source: 3  調用一句網（簡體） http://yijuzhan.com/
+  # source: 4  調用今日詩詞（簡體） https://www.jinrishici.com/
+  # subtitle 會先顯示 source , 再顯示 sub 的內容
+  source: 2
+  # 如果有英文逗號' , ',請使用轉義字元 &#44;
+  # 如果有英文雙引號' " ',請使用轉義字元 &quot;
+  # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
+  # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
+  sub:
+    - 今日事&#44;今日畢
+    - Never put off till tomorrow what you can do today
+
+# 搜索
+# local_search:
+#   enable: true
+
+# 网站图标
+favicon: https://img.wanglingling-liukun.cn/favicon.ico
+
+# 字数统计
+wordcount:
+  enable: true
+  post_wordcount: true
+  min2read: true
+  total_wordcount: true
+
+# 点击爱心
+click_heart:
+  enable: true
+  mobile: false
+
+# 侧边栏配置
+aside:
+  enable: true
+  hide: false
+  button: true
+  mobile: true # 手機頁面（ 顯示寬度 < 768px ）是否顯示aside內容
+  position: left # left or right
+  card_author:
+    enable: true
+    description: 因为你，所以我！
+    button:
+      enable: true
+	    icon: fab fa-github
+      text: Github
+      link: https://github.com/lifeforwl/lifeforwl.github.io
+  card_announcement:
+    enable: true
+    content: 这是她和我的生活
+  card_tags:
+    enable: true
+    limit: 40 # if set 0 will show all
+    color: true
+  card_webinfo:
+    enable: true
+    post_count: true
+    last_push_date: true
+
+## 头像
+avatar:
+  img: https://img.wanglingling-liukun.cn/wlimg/lifeforwl-small.jpeg
+  effect: true # 頭像會一直轉圈
+
+## 平台
+social:
+  fab fa-github: https://github.com/lifeforwl || Github
+  fas fa-envelope: mailto:merle.liukun@gmail.com || Email
+
+## 网站信息
+runtimeshow:
+  enable: true
+  publish_date: 6/13/2020 00:00:00  
+  ##網頁開通時間
+
+
 # 页脚设置
 footer:
   owner:
     enable: true
     since: 2020
   custom_text: <a href="http://beian.miit.gov.cn/"><img class="icp-icon" src="https://i.loli.net/2021/07/12/K2DLFGesgZNuhYm.png"><span>豫ICP备17030789号-1</span></a> | 欢迎来到我们的世界呀! | 本网站由<a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral"><img class="icp-icon" src="https://i.loli.net/2021/07/12/VubIOKPs2p9eNWz.png"></a>提供CDN加速/云存储服务
-# 侧边信息设置
-runtimeshow:
-  enable: true
-  publish_date: 6/13/2020 00:00:00  
-  ##網頁開通時間
 
 # 404 页面
 error_404:
   enable: true
   subtitle: "頁面沒有找到"
   background: 
+
+#右下角按鈕
+## 黑夜模式
+darkmode:
+  enable: true
+  # dark mode和 light mode切換按鈕
+  button: true
+  autoChangeMode: false
+
+## 阅读模式
+readmode: true
