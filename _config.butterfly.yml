@@ -42,6 +42,13 @@ subtitle:
 # 网站图标
 favicon: https://img.wanglingling-liukun.cn/favicon.ico
 
+# 首页背景
+index_img: https://img.wanglingling-liukun.cn/wlimg/top-img-index.jpg
+default_top_img: https://img.wanglingling-liukun.cn/wlimg/top-img-default.jpg
+archive_img: https://img.wanglingling-liukun.cn/wlimg/top-img-archive.jpg
+tag_img: https://img.wanglingling-liukun.cn/wlimg/top-img-tag-1.jpg
+category_img: https://img.wanglingling-liukun.cn/wlimg/top-img-categories.jpg
+
 # 字数统计
 wordcount:
   enable: true
