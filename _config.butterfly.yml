@@ -9,6 +9,7 @@ menu:
   嘀嗒嘀嗒 || fa fa-heartbeat:
     图书: /books/ || fas fa-book
     电影: /movies/ || fas fa-video
+  吐吐嘈嘈: /talks/ || fas fa-volume-up
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
@@ -144,3 +145,17 @@ darkmode:
 
 ## 阅读模式
 readmode: true
+
+# 说说
+artitalk:
+    enable: true
+    appId: NzovDPnXm1cQM0BX04uEHfBT-gzGzoHsz
+    appKey: ODFm1lul17X811RWFLjSAxt2
+    path: talks
+    js:
+    option:
+      serverURL: https://lean.wanglingling-liukun.cn
+    front_matter:
+      title: 随便说
+      comments: false
+      top_img: https://img.wanglingling-liukun.cn/wlimg/top-img-talks.jpg
