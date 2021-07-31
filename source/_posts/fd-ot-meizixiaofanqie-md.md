@@ -39,7 +39,7 @@ cover: https://img.wanglingling-liukun.cn/wlimg/food/mzxfq-top-img.jpg
 
 ### 开吃
 
-冰镇后，开吃，冰冰爽爽！小玲开心得很！
+冰镇后，开吃，冰冰爽爽！柠柠老师开心得很！
 
 ## 参考:
 
