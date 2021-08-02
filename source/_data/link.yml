@@ -1,3 +1,11 @@
+- class_name: '<i class="fas fa-fan" style="color:#00cccc;padding-right: 0.4rem"></i>工具'
+  class_desc: '<span style="font-style: italic;">博客使用的工具</span>'
+  link_list:
+    - name: fotor 懒设计
+      link: https://www.fotor.com.cn/
+      avatar: https://help.fotor.com.cn/wp-content/themes/fotor/images/logo-gold.png
+      descr: Banner,头图的设计网站
+
 
 - class_name: '<i class="fas fa-check-double" style="color: #FF6666;padding-right: 0.4rem"></i>友情链接'
   class_desc: 最可爱的朋友在这里呀
