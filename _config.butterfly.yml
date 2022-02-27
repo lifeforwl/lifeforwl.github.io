@@ -154,7 +154,7 @@ artitalk:
     path: talks
     js:
     option:
-      serverURL: https://lean.wanglingling-liukun.cn
+      serverURL: https://lean.lkhardy.cn
     front_matter:
       title: 随便说
       comments: false
