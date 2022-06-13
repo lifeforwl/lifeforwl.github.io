@@ -6,9 +6,9 @@ tags: 生活 节日
 categories: 生活
 keywords: 元旦
 description: 2022 新的一年新的开始
-top_img: https://img.wanglingling-liukun.cn/wlimg/happy/new-year-2022-top.png
+top_img: https://imgup.lkhardy.cn/wlimg/happy/new-year-2022-top.png
 comments:
-cover: https://img.wanglingling-liukun.cn/wlimg/happy/new-year-2022-cover.png
+cover: https://imgup.lkhardy.cn/wlimg/happy/new-year-2022-cover.png
 ---
 
     一元复始，旭日始旦。

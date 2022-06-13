@@ -6,9 +6,9 @@ tags: 生活 节日
 categories: 生活
 keywords: 春节
 description: 除旧岁 迎新春
-top_img: https://img.wanglingling-liukun.cn/wlimg/happy/happy-chinese-new-year-2022-top.png
+top_img: https://imgup.lkhardy.cn/wlimg/happy/happy-chinese-new-year-2022-top.png
 comments:
-cover: https://img.wanglingling-liukun.cn/wlimg/happy/happy-chinese-new-year-2022-cover.png
+cover: https://imgup.lkhardy.cn/wlimg/happy/happy-chinese-new-year-2022-cover.png
 ---
 
 {% note blue 'fas fa-bullhorn' %}

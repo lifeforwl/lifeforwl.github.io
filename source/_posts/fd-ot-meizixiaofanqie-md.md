@@ -6,7 +6,7 @@ tags:
 - 小番茄
 categories: 美食
 description: 美食 生活
-cover: https://img.wanglingling-liukun.cn/wlimg/food/mzxfq-top-img.jpg
+cover: https://imgup.lkhardy.cn/wlimg/food/mzxfq-top-img.jpg
 ---
 
 美味解暑小零食之梅渍小番茄，冰爽酸甜.
@@ -33,7 +33,7 @@ cover: https://img.wanglingling-liukun.cn/wlimg/food/mzxfq-top-img.jpg
 
 将放凉的糖水倒入盒里。盖上盖子放入冷藏室。理论来说3小时即可入味，但最好过夜！
 
-![meizixiaofanqie](https://img.wanglingling-liukun.cn/wlimg/food/mzxfq-middle.jpeg)
+![meizixiaofanqie](https://imgup.lkhardy.cn/wlimg/food/mzxfq-middle.jpeg)
 
 (我去 我拍的怎么这么丑)
 

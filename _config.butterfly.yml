@@ -41,14 +41,14 @@ subtitle:
 #   enable: true
 
 # 网站图标
-favicon: https://img.wanglingling-liukun.cn/favicon.ico
+favicon: https://imgup.lkhardy.cn/favicon.ico
 
 # 首页背景
-index_img: https://img.wanglingling-liukun.cn/wlimg/top-img-index.jpg
-default_top_img: https://img.wanglingling-liukun.cn/wlimg/top-img-default.jpg
-archive_img: https://img.wanglingling-liukun.cn/wlimg/top-img-archive.jpg
-tag_img: https://img.wanglingling-liukun.cn/wlimg/top-img-tag-1.jpg
-category_img: https://img.wanglingling-liukun.cn/wlimg/top-img-categories.jpg
+index_img: https://imgup.lkhardy.cn/wlimg/top-img-index.jpg
+default_top_img: https://imgup.lkhardy.cn/wlimg/top-img-default.jpg
+archive_img: https://imgup.lkhardy.cn/wlimg/top-img-archive.jpg
+tag_img: https://imgup.lkhardy.cn/wlimg/top-img-tag-1.jpg
+category_img: https://imgup.lkhardy.cn/wlimg/top-img-categories.jpg
 
 # 字数统计
 wordcount:
@@ -91,7 +91,7 @@ aside:
 
 ## 头像
 avatar:
-  img: https://img.wanglingling-liukun.cn/wlimg/lifeforwl-small.jpeg
+  img: https://imgup.lkhardy.cn/wlimg/lifeforwl-small.jpeg
   effect: false # 頭像會一直轉圈
 
 ## 平台
@@ -158,4 +158,4 @@ artitalk:
     front_matter:
       title: 随便说
       comments: false
-      top_img: https://img.wanglingling-liukun.cn/wlimg/top-img-talks.jpg
+      top_img: https://imgup.lkhardy.cn/wlimg/top-img-talks.jpg

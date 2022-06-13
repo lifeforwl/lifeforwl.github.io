@@ -6,9 +6,9 @@ tags: 生活 节日
 categories: 生活
 keywords: 好玩
 description: 确实是百年难遇
-top_img: https://img.wanglingling-liukun.cn/wlimg/happy/happy-twos-day-top.png
+top_img: https://imgup.lkhardy.cn/wlimg/happy/happy-twos-day-top.png
 comments:
-cover: https://img.wanglingling-liukun.cn/wlimg/happy/happy-twos-day-cover.png
+cover: https://imgup.lkhardy.cn/wlimg/happy/happy-twos-day-cover.png
 ---
 
 {% note green 'fas fa-rocket' %}

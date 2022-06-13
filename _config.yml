@@ -108,7 +108,7 @@ douban:
     quote: 'Reading'
     meta: true
     comments: false
-    top_img: https://img.wanglingling-liukun.cn/wlimg/top-img-book.jpg
+    top_img: https://imgup.lkhardy.cn/wlimg/top-img-book.jpg
     aside: true
     path: books
   movie:
@@ -116,7 +116,7 @@ douban:
     quote: '看到的只是一部分'
     meta: true
     comments: false
-    top_img: https://img.wanglingling-liukun.cn/wlimg/top-img-movie.jpg
+    top_img: https://imgup.lkhardy.cn/wlimg/top-img-movie.jpg
     aside: true
     path: movies
     limit:
